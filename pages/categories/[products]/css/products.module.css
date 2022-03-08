@@ -1,0 +1,72 @@
+.main{
+    align-content: center; 
+   
+} 
+
+.side{
+    background-color: rgb(243, 239, 239);
+    padding-top: 10px;
+    padding-bottom:10px; 
+    
+} 
+
+.main h1 {
+    color:#f8b02d;
+    font-weight: 1000;
+    font-size: 1500;
+    padding-left: 40%;
+    
+    margin-top: 5%;
+} 
+
+.side .sideItems{
+    color:brown; 
+    
+    font-size: 50;
+    font-weight: 700;
+    /*font-family: biker; */
+}
+
+.side .sideItems:hover
+{
+    color:#f8b02d;
+    cursor: default;
+} 
+
+
+.btn {
+    background-color:brown;
+    color:white;
+    font-family: biker; 
+    font-size: 15px; 
+    font-weight: bold; 
+    border-radius:15%; 
+    width:100% ;
+    padding: 15px;
+ 
+ } 
+
+ .btn:hover {
+    color:black;
+    background-color: #f8b02d;
+} 
+
+.card {
+    width: 18rem;
+    background:none ;
+    border:none;
+     display:inline-block;
+} 
+
+
+.container{
+    align-content: center !important; 
+    margin-left: 40%;
+} 
+
+
+.popCart{
+    display: inline-block;
+    cursor: pointer; 
+
+}

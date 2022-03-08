@@ -1,0 +1,36 @@
+.container{
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 5%;
+    margin-top: 5%;
+} 
+.h1{
+    color:#f8b02d;
+    font-weight: 1000;
+    font-size: 1500; 
+    margin-left: 35%;
+} 
+.btn{
+    font-family: biker; 
+    font-size: 18px; 
+    font-weight: bold; 
+    justify-content: space-between; 
+    border-radius:10%;
+} 
+.ch 
+{
+    font-family: biker; 
+    text-transform: uppercase;
+    font-size: 18px; 
+    font-weight: bold; 
+    justify-content: space-between; 
+    border-radius:10%; 
+    width: 2rem;
+    margin: .5rem;
+} 
+.td {
+    font-family: biker;  
+    font-size: 18px; 
+    font-weight: bold; 
+    justify-content: space-between
+}
